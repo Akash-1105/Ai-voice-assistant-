@@ -5,7 +5,7 @@ import datetime
 import requests
 import json
  
-# Initialize Text-to-Speech 
+# Text-to-Speech 
 engine = pyttsx3.init()
 
 # Function to speak
